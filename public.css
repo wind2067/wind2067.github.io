@@ -1,8 +1,11 @@
 /* 页眉 */
-div.wide_header{
+div.header{
 	background-color: rgb(180, 230, 180);
 	width:  1000px;
-	height: 50px;
 	padding: 10px;
 	position: fixed;
+}
+
+div.header div.caption{
+	font-family: 黑体
 }
